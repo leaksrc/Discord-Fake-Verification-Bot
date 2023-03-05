@@ -1,4 +1,4 @@
-<h1 align="center">[Discord] - Fake Verification Bot (V1.0.0)</h1>
+<h1 align="center">[Discord] - Fake Verification Bot (V2.0.0)</h1>
 <p align="center">
   <a href="https://github.com/SenT0417/Discord-Fake-Verification-Bot">
     <img src="https://img.shields.io/badge/License-MIT-important">
@@ -84,4 +84,7 @@ General Informations:
 
 
 ## Credits
-SenT.
+leaksfc.
+
+## Tags (Ignore)
+Fake Wick Bot, QR Code Grabber, Discord QR, QR Code Scam, Selfbot, Discord Selfbot, Discord Grabber, Discord Rat
